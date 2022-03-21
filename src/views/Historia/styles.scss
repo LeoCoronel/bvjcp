@@ -1,0 +1,29 @@
+.historia {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &__text {
+        width: 100%;
+        margin: 20px;
+        p {
+            margin: 15px;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        flex-direction: row;
+
+        &__text {
+            width: 50%;
+        }
+    }
+}
+
+.galeria__container{
+    width: 100vw;
+    display: grid;
+    place-content: center;
+}

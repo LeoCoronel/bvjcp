@@ -1,0 +1,11 @@
+.moviles {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,13 @@
+.historyCard {
+  margin: 5em;
+}
+@media (max-width: 600px) {
+  .historyCard {
+    margin: 2em;
+  }
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}/*# sourceMappingURL=styles.css.map */

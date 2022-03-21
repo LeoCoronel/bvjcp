@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.comunidadContainer {
+    margin-bottom: 5em;
+    .comunidad {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,18 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.description p {
+  margin: 30px;
+}
+.description button {
+  height: 50px;
+  width: 150px;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background-color: #f75959;
+}/*# sourceMappingURL=styles.css.map */
